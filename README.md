@@ -78,12 +78,6 @@ Aplikasi ini menggunakan beberapa tabel utama:
 - `includes/header.php`: Header HTML, navigasi, dan session check
 - `includes/footer.php`: Footer HTML dan script JavaScript umum
 
-## Animasi dengan Anime.js
-
-Aplikasi ini menggunakan Anime.js untuk memberikan animasi yang smooth pada semua halaman. Animasi yang diterapkan meliputi:
-- Fade-in untuk elemen utama saat halaman dimuat
-- Transisi smooth pada hover dan interaksi
-- Animasi loading untuk operasi asynchronous
 
 ## Penggunaan
 
